@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emily Piña</h1>
-<h3 align="center">A passionate Back End developer from Venezuela</h3>
+<h3 align="center">A passionate software developer from Venezuela</h3>
 
 - 🔭 I’m currently working on [a social Network](https://github.com/emmspy/Vegan-Project)
 
